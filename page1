@@ -4,6 +4,7 @@ echo "# GitHub" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
+(git remote add <name> <url>
 git remote add origin https://github.com/anthowe/GitHub.git
 git push -u origin master
                 
